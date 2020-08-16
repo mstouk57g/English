@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Me:
-[My things]("http://mstouk57g.cr.cx/mine")
+[My things](http://mstouk57g.cr.cx/mine)
